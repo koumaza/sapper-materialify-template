@@ -1,5 +1,5 @@
 <script>
-	import { Button } from 'svelte-materialify/src/'
+	import Button from 'svelte-materialify/src/components/Button/Button.svelte'
 </script>
 
 <svelte:head>
